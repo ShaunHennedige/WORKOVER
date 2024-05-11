@@ -35,17 +35,23 @@ Download the APK for running on Android directly.
      open -a Simulator
      ```
      
-3. **Download Workerover Zip File**:
-   - Download the `workerover.zip` file for development purposes.
-  
 4. **Flutter Setup**:
-   - In the terminal, navigate to your project directory and run:
+   - Download Flutter SDK from the [Flutter website](https://flutter.dev/docs/get-started/install).
+   - Extract the downloaded zip file to a location on your computer.
+   - In Visual Studio Code, open the project folder where you extracted Flutter SDK.
+   - Open a terminal in Visual Studio Code (Terminal > New Terminal).
+   - Navigate to your project directory by running:
+
+     ```
+     cd path/to/your/project
+     ```
+
+   - Run the following commands to set up Flutter:
 
      ```
      flutter doctor
      flutter run
      ```
-
 
 
 ---
