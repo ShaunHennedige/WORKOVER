@@ -52,7 +52,14 @@ Download the APK for running on Android directly.
      flutter doctor
      flutter run
      ```
+     
+<img width="590" alt="Screenshot 2024-05-11 at 17 29 39" src="https://github.com/ShaunHennedige/WORKOVER/assets/99944769/abbaf87f-edc9-485e-a044-fc1d562ad28b">
 
+
+<img width="648" alt="Screenshot 2024-05-11 at 17 29 18" src="https://github.com/ShaunHennedige/WORKOVER/assets/99944769/d2ad6537-498b-48d1-9012-25de9283429e">
+
+
+<img width="705" alt="Screenshot 2024-05-11 at 17 29 02" src="https://github.com/ShaunHennedige/WORKOVER/assets/99944769/e7b044ce-3c4d-43a2-a03e-2f779663212c">
 
 ---
 
