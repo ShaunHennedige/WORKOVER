@@ -62,3 +62,7 @@ Password: test456
 
 Username: frontoffice1@gmail.com
 Password:0987654321
+
+Username: housekeep1@gmail.com 
+Password: 12345678
+
