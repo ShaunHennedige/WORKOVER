@@ -41,3 +41,24 @@ Download the APK for running on Android directly.
 
 4. **Download Workerover Zip File**:
    - Download the `workerover.zip` file for development purposes.
+
+
+
+
+Test Users are as follows
+
+
+Hotel Code 1001
+Managers Passkey 0001
+
+Username: testm@gmail.com
+Password: test123
+
+Username: tests@gmail.com
+Password: test0987
+
+Username: teste@gmail.com
+Password: test456
+
+Username: frontoffice1@gmail.com
+Password:0987654321
