@@ -1,6 +1,9 @@
 # WORKOVER
 Final Year Computing Individual Project
 
+Shaun Hennedige Plymouth ID: 10818172
+S H T Hennedige NSBM ID: 24042
+
 ## Read Me File
 
 ### Download
@@ -30,8 +33,11 @@ Download the APK for running on Android directly.
      xcodebuild -downloadPlatform iOS
      open -a Simulator
      ```
-
-3. **Flutter Setup**:
+     
+3. **Download Workerover Zip File**:
+   - Download the `workerover.zip` file for development purposes.
+  
+4. **Flutter Setup**:
    - In the terminal, navigate to your project directory and run:
 
      ```
@@ -39,8 +45,7 @@ Download the APK for running on Android directly.
      flutter run
      ```
 
-4. **Download Workerover Zip File**:
-   - Download the `workerover.zip` file for development purposes.
+
 
 ---
 
