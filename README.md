@@ -42,27 +42,22 @@ Download the APK for running on Android directly.
 4. **Download Workerover Zip File**:
    - Download the `workerover.zip` file for development purposes.
 
+---
 
+## Test Users
 
+For testing purposes, the following test users are available:
 
-Test Users are as follows
+- **Hotel Code**: 1001
+- **Managers Passkey**: 0001
 
+### User Credentials:
 
-Hotel Code 1001
-Managers Passkey 0001
+1. **Username**: testm@gmail.com, **Password**: test123
+2. **Username**: tests@gmail.com, **Password**: test0987
+3. **Username**: teste@gmail.com, **Password**: test456
+4. **Username**: frontoffice1@gmail.com, **Password**: 0987654321
+5. **Username**: housekeep1@gmail.com, **Password**: 12345678
 
-Username: testm@gmail.com
-Password: test123
-
-Username: tests@gmail.com
-Password: test0987
-
-Username: teste@gmail.com
-Password: test456
-
-Username: frontoffice1@gmail.com
-Password:0987654321
-
-Username: housekeep1@gmail.com 
-Password: 12345678
+--- 
 
